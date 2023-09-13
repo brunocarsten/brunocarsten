@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/king0vdeception"><img src="https://api.daily.dev/devcards/1a11d1db10ee4bb49362b8d8f40557b8.png?r=e8x" width="400" alt="Bruno Araújo's Dev Card"/></a>
+<a href="https://app.daily.dev/king0vdeception"><img src="https://github.com/brunocarsten/brunocarsten/blob/master/devcard.svg" width="400" alt="Bruno's Dev Card"/></a>
 
 
 <!--
